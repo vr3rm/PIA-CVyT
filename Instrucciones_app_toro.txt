@@ -1,6 +1,0 @@
-Para abrir la app_2_toro.py se debe tener instalado por pip "streamlit" con el comando "pip install streamlit"
-Abrir la terminal en la carpeta en la que se encuentra la aplicación y ejecutar:
-
-streamlit run app_2_toro.py
-
-Y se ejecuta la app
